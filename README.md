@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sue Moore @suemo-pgh
 - 👀 I’m interested in relaunching a career in data visualization, analytics.
-- 🌱 I’m currently in an MBA program learning R, JMP, Tableau, advanced Excel.
+- 🌱 I recently completed an MBA with a business analytics concentration.
 - 📫 How to reach me: suesontheroad@gmail.com.
 
 <!---
